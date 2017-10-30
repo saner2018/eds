@@ -19,10 +19,6 @@ Teste You can use the [editor on GitHub](https://github.com/saner2018/eds/edit/m
 
 To conducted this study, we defined four research questions (RQs) as follows.
 
-
-
-
-
 ```markdown
 RQ1. Do thresholds for the same metric vary among different software domains?
 
@@ -35,6 +31,7 @@ RQ4. Are domain-specific thresholds better than general thresholds for code smel
 ## Header 2
 ### Header 3
 
+
 - Bulleted
 - List
 
@@ -45,6 +42,93 @@ RQ4. Are domain-specific thresholds better than general thresholds for code smel
 
 [Link](url) and ![Image](src)
 ```
+## Selected Systems and Domains
+Table presents and describes the fifteen domains explored in this study with the number of systems per domain (last column). We choose these domains for the following reasons. First, they are well-defined in terms of requirements and, therefore, we believe that their different requirements might reflect in varying thresholds among systems of each domain. Second, they encompass several types of systems, for instance, frameworks, libraries, and tools. Third , there is a significant number of systems in these domains publicly available in GitHub. Forth, most of these domains have been used in previous studies.
+
+
+<table>
+  <tr>
+    <th>Domain</th>
+    <th>Description</th>
+    <th>#</th>
+  </tr>
+  <tr>
+    <td>Accounting (Acc)</td>
+    <td>Systems that record and process accounting transactions, such as accounts payable and receivable, payroll, and trial balance.</td>
+    <td>318</td>
+  </tr>
+  <tr>
+    <td>Business (Bus)</td>
+    <td>Systems that implement validation, calculation, and law regulations of business requirements, such as pricing, purchasing, and inventory management.</td>
+    <td>383</td>
+  </tr>
+  <tr>
+    <td>Communication (Com)</td>
+    <td>Systems that manage connections between server and clients, using protocols to share information.</td>
+    <td>298</td>
+  </tr>
+  <tr>
+    <td>Development (Dev)</td>
+    <td>Software tools that support developers to implement projects in general.</td>
+    <td>531</td>
+  </tr>
+  <tr>
+    <td>Dictionaries (Dic)</td>
+    <td>Software tools used to translate a variety of languages.</td>
+    <td>130</td>
+  </tr>
+  <tr>
+    <td>E-commerce (EC)</td>
+    <td>Systems in charge of supporting the transactions of products buying and selling, as well as providing services to consumers.</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>Education (Edu)</td>
+    <td>Systems used by students to manage their study life and by managers to administrate their schools.</td>
+    <td>172</td>
+  </tr>
+  <tr>
+    <td>Free Time (FT)</td>
+    <td>Entertain systems or any software which provides information for joy, such as travel information.</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>Games (Gam)</td>
+    <td>Entertainment games that can be played alone or in colaboration.</td>
+    <td>453</td>
+  </tr>
+  <tr>
+    <td>Health (Hea)</td>
+    <td>Systems that offer health-related services to people in general.</td>
+    <td>282</td>
+  </tr>
+  <tr>
+    <td>Home (Hom)</td>
+    <td>Systems that control basic many home devices and services.</td>
+    <td>164</td>
+  </tr>
+  <tr>
+    <td>Localization (Loc)</td>
+    <td>Show local information normally based on GPS. Some of them display maps and location sensitive data for users.</td>
+    <td>76</td>
+  </tr>
+  <tr>
+    <td>Messaging (Mes)</td>
+    <td>Systems that allow the users to send messages from one client to another.</td>
+    <td>66</td>
+  </tr>
+  <tr>
+    <td>Restaurant (Res)</td>
+    <td>Systems that provide different services for both managers and users of food houses.</td>
+    <td>333</td>
+  </tr>
+  <tr>
+    <td>Science &amp; Engineering (ScE)</td>
+    <td>Systems designed to aid users in several fields of science and engineering, such as 3D visualization and data analysis.</td>
+    <td>22</td>
+  </tr>
+</table>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
