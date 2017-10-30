@@ -14,8 +14,6 @@ To download of the thresholds derivations in this study, click in [link](https:/
 
 To download of the metrics of each  software domains used in this study, click in [link](https://github.com/saner2018/eds/blob/master/Metrics.rar)
 
-Teste You can use the [editor on GitHub](https://github.com/saner2018/eds/edit/master/README.md) to maintain and preview the content for your website in Markdown files. [Teste](https://github.com/saner2018/eds/blob/master/Table%20V%20-%20Thresholds.xlsx)
-
 
 ## Research Questions
 
