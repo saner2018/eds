@@ -31,110 +31,22 @@ RQ4. Are domain-specific thresholds better than general thresholds for code smel
 ## Selected Systems and Domains
 <p align="justify">The following table presents and describes the fifteen domains explored in this study with the number of systems per domain (last column). We choose these domains for the following reasons. First, they are well-defined in terms of requirements and, therefore, we believe that their different requirements might reflect in varying thresholds among systems of each domain. Second, they encompass several types of systems, for instance, frameworks, libraries, and tools. Third , there is a significant number of systems in these domains publicly available in GitHub. Forth, most of these domains have been used in previous studies.</p>
 
-Domain|	Description|	#
-------------|------------ | -------------
 
-Accounting (Acc)|	Systems that record and process accounting transactions, such as accounts payable and receivable, payroll, and trial balance.|	318
-Business (Bus)|	Systems that implement validation, calculation, and law regulations of business requirements, such as pricing, purchasing, and inventory management.|	383
-Communication (Com)|	Systems that manage connections between server and clients, using protocols to share information.|	298
-Development (Dev)|	Software tools that support developers to implement projects in general.|	531
-Dictionaries (Dic)|	Software tools used to translate a variety of languages.	|130
-E-commerce (EC)|	Systems in charge of supporting the transactions of products buying and selling, as well as providing services to consumers.	|36
-Education (Edu)|	Systems used by students to manage their study life and by managers to administrate their schools.	|172
-Free Time(FT)|	Entertain systems or any software which provides information for joy, such as travel information.	|28
-Games (Gam)|	Entertainment games that can be played alone or in colaboration.	|453
-Health (Hea)|	Systems that offer health-related services to people in general.	|282
-Home (Hom)|	Systems that control basic many home devices and services.	|164
-Localization (Loc)|	Show local information normally based on GPS. Some of them display maps and location sensitive data for users.	|76
-Messaging (Mes)|	Systems that allow the users to send messages from one client to another.	|66
-Restaurant (Res)|	Systems that provide different services for both managers and users of food houses.	|333
-Science & Engineering (ScE)|	Systems designed to aid users in several fields of science and engineering, such as 3D visualization and data analysis.	|22
 
-<table style="undefined;table-layout: fixed; width: 998px">
-<colgroup>
-<col style="width: 108px">
-<col style="width: 856px">
-<col style="width: 34px">
-</colgroup>
-  <tr>
-    <th>Domain</th>
-    <th>Description</th>
-    <th>#</th>
-  </tr>
-  <tr>
-    <td>Accounting (Acc)</td>
-    <td>Systems that record and process accounting transactions, such as accounts payable and receivable, payroll, and trial balance.</td>
-    <td>318</td>
-  </tr>
-  <tr>
-    <td>Business (Bus)</td>
-    <td>Systems that implement validation, calculation, and law regulations of business requirements, such as pricing, purchasing, and inventory management.</td>
-    <td>383</td>
-  </tr>
-  <tr>
-    <td>Communication (Com)</td>
-    <td>Systems that manage connections between server and clients, using protocols to share information.</td>
-    <td>298</td>
-  </tr>
-  <tr>
-    <td>Development (Dev)</td>
-    <td>Software tools that support developers to implement projects in general.</td>
-    <td>531</td>
-  </tr>
-  <tr>
-    <td>Dictionaries (Dic)</td>
-    <td>Software tools used to translate a variety of languages.</td>
-    <td>130</td>
-  </tr>
-  <tr>
-    <td>E-commerce (EC)</td>
-    <td>Systems in charge of supporting the transactions of products buying and selling, as well as providing services to consumers.</td>
-    <td>36</td>
-  </tr>
-  <tr>
-    <td>Education (Edu)</td>
-    <td>Systems used by students to manage their study life and by managers to administrate their schools.</td>
-    <td>172</td>
-  </tr>
-  <tr>
-    <td>Free Time <br>(FT)</td>
-    <td>Entertain systems or any software which provides information for joy, such as travel information.</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <td>Games <br>(Gam)</td>
-    <td>Entertainment games that can be played alone or in colaboration.</td>
-    <td>453</td>
-  </tr>
-  <tr>
-    <td>Health <br>(Hea)</td>
-    <td>Systems that offer health-related services to people in general.</td>
-    <td>282</td>
-  </tr>
-  <tr>
-    <td>Home (Hom)</td>
-    <td>Systems that control basic many home devices and services.</td>
-    <td>164</td>
-  </tr>
-  <tr>
-    <td>Localization (Loc)</td>
-    <td>Show local information normally based on GPS. Some of them display maps and location sensitive data for users.</td>
-    <td>76</td>
-  </tr>
-  <tr>
-    <td>Messaging (Mes)</td>
-    <td>Systems that allow the users to send messages from one client to another.</td>
-    <td>66</td>
-  </tr>
-  <tr>
-    <td>Restaurant (Res)</td>
-    <td>Systems that provide different services for both managers and users of food houses.</td>
-    <td>333</td>
-  </tr>
-  <tr>
-    <td>Science &amp; Engineering (ScE)</td>
-    <td>Systems designed to aid users in several fields of science and engineering, such as 3D visualization and data analysis.</td>
-    <td>22</td>
-  </tr>
-</table>
-
+|            Domain           	|                                                                      Description                                                                     	|  #  	|
+|:---------------------------:	|:----------------------------------------------------------------------------------------------------------------------------------------------------:	|:---:	|
+|       Accounting (Acc)      	| Systems that record and process accounting transactions, such as accounts payable and receivable, payroll, and trial balance.                        	| 318 	|
+|        Business (Bus)       	| Systems that implement validation, calculation, and law regulations of business requirements, such as pricing, purchasing, and inventory management. 	| 383 	|
+|     Communication (Com)     	| Systems that manage connections between server and clients, using protocols to share information.                                                    	| 298 	|
+|      Development (Dev)      	| Software tools that support developers to implement projects in general.                                                                             	| 531 	|
+|      Dictionaries (Dic)     	| Software tools used to translate a variety of languages.                                                                                             	| 130 	|
+|       E-commerce (EC)       	| Systems in charge of supporting the transactions of products buying and selling, as well as providing services to consumers.                         	| 36  	|
+|       Education (Edu)       	| Systems used by students to manage their study life and by managers to administrate their schools.                                                   	| 172 	|
+|       Free Time  (FT)       	| Entertain systems or any software which provides information for joy, such as travel information.                                                    	| 28  	|
+|         Games  (Gam)        	| Entertainment games that can be played alone or in colaboration.                                                                                     	| 453 	|
+|        Health  (Hea)        	| Systems that offer health-related services to people in general.                                                                                     	| 282 	|
+|          Home (Hom)         	| Systems that control basic many home devices and services.                                                                                           	| 164 	|
+|      Localization (Loc)     	| Show local information normally based on GPS. Some of them display maps and location sensitive data for users.                                       	| 76  	|
+|       Messaging (Mes)       	| Systems that allow the users to send messages from one client to another.                                                                            	| 66  	|
+|       Restaurant (Res)      	| Systems that provide different services for both managers and users of food houses.                                                                  	| 333 	|
+| Science & Engineering (ScE) 	| Systems designed to aid users in several fields of science and engineering, such as 3D visualization and data analysis.                              	| 22  	|
