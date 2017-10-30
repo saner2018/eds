@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## About paper
 
 This paper presents a large-scale empirical study (based on 3,292 systems) to investigate whether and how thresholds vary among systems of different domains. We argue that the definition of appropriate thresholds needs to be tailored to each metric by the software domain. Therefore, we defend the idea of domain-specific thresholds, given that systems from different domains may have distinct characteristics and, it may impair the derived metric thresholds. As consequence, it can increase the number of false positive anomalies, for instance. 
 
-Teste You can use the [editor on GitHub](https://github.com/saner2018/eds/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Teste You can use the [editor on GitHub](https://github.com/saner2018/eds/edit/master/README.md) to maintain and preview the content for your website in Markdown files. [Teste](https://github.com/saner2018/eds/blob/master/Table%20V%20-%20Thresholds.xlsx)
+
 
 ### Markdown
 
