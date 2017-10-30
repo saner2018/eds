@@ -31,6 +31,10 @@ RQ4. Are domain-specific thresholds better than general thresholds for code smel
 ## Selected Systems and Domains
 The following table presents and describes the fifteen domains explored in this study with the number of systems per domain (last column). We choose these domains for the following reasons. First, they are well-defined in terms of requirements and, therefore, we believe that their different requirements might reflect in varying thresholds among systems of each domain. Second, they encompass several types of systems, for instance, frameworks, libraries, and tools. Third , there is a significant number of systems in these domains publicly available in GitHub. Forth, most of these domains have been used in previous studies.
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 <table style="undefined;table-layout: fixed; width: 998px">
 <colgroup>
