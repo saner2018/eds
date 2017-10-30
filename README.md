@@ -46,7 +46,12 @@ RQ4. Are domain-specific thresholds better than general thresholds for code smel
 Table presents and describes the fifteen domains explored in this study with the number of systems per domain (last column). We choose these domains for the following reasons. First, they are well-defined in terms of requirements and, therefore, we believe that their different requirements might reflect in varying thresholds among systems of each domain. Second, they encompass several types of systems, for instance, frameworks, libraries, and tools. Third , there is a significant number of systems in these domains publicly available in GitHub. Forth, most of these domains have been used in previous studies.
 
 
-<table>
+<table style="undefined;table-layout: fixed; width: 998px">
+<colgroup>
+<col style="width: 108px">
+<col style="width: 856px">
+<col style="width: 34px">
+</colgroup>
   <tr>
     <th>Domain</th>
     <th>Description</th>
@@ -88,17 +93,17 @@ Table presents and describes the fifteen domains explored in this study with the
     <td>172</td>
   </tr>
   <tr>
-    <td>Free Time (FT)</td>
+    <td>Free Time <br>(FT)</td>
     <td>Entertain systems or any software which provides information for joy, such as travel information.</td>
     <td>28</td>
   </tr>
   <tr>
-    <td>Games (Gam)</td>
+    <td>Games <br>(Gam)</td>
     <td>Entertainment games that can be played alone or in colaboration.</td>
     <td>453</td>
   </tr>
   <tr>
-    <td>Health (Hea)</td>
+    <td>Health <br>(Hea)</td>
     <td>Systems that offer health-related services to people in general.</td>
     <td>282</td>
   </tr>
