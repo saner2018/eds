@@ -15,18 +15,22 @@ To download of the metrics of each  software domains used in this study, click i
 Teste You can use the [editor on GitHub](https://github.com/saner2018/eds/edit/master/README.md) to maintain and preview the content for your website in Markdown files. [Teste](https://github.com/saner2018/eds/blob/master/Table%20V%20-%20Thresholds.xlsx)
 
 
-### Research Questions
+## Research Questions
 
 To conducted this study, we defined four research questions (RQs) as follows.
-RQ1. Do thresholds for the same metric vary among different software domains?
-RQ2. Are there metrics with the same thresholds regardless of the software domain?
-RQ3. Does the system size impact on the derived thresholds?
-RQ4. Are domain-specific thresholds better than general thresholds for code smell detection?
+
+
+
 
 
 ```markdown
-Syntax highlighted code block
+RQ1. Do thresholds for the same metric vary among different software domains?
 
+RQ2. Are there metrics with the same thresholds regardless of the software domain?
+
+RQ3. Does the system size impact on the derived thresholds?
+
+RQ4. Are domain-specific thresholds better than general thresholds for code smell detection?
 # Header 1
 ## Header 2
 ### Header 3
