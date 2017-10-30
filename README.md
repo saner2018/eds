@@ -7,6 +7,11 @@ This study relies on fifteen software domains composed of object-oriented Java s
 
 We available all data used in this paper. To download spreadsheet about software domains, click in [link](https://github.com/saner2018/eds/blob/master/Oracle.xlsx). 
 
+To download of the thresholds derivations in this paper, click in [link](https://github.com/saner2018/eds/blob/master/Thresholds.xlsx). 
+
+
+To download of the metrics of each  software domains used in this paper, click in [link](https://github.com/saner2018/eds/blob/master/Metrics.rar)
+
 Teste You can use the [editor on GitHub](https://github.com/saner2018/eds/edit/master/README.md) to maintain and preview the content for your website in Markdown files. [Teste](https://github.com/saner2018/eds/blob/master/Table%20V%20-%20Thresholds.xlsx)
 
 
