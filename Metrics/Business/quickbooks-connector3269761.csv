@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+quickbooks-connector3269761;org.mule.modules.quickbooks.AccountDetail;AccountDetail;enum;1;2;1;0;0;2;1;675
+quickbooks-connector3269761;org.mule.modules.QuickBooksNamespaceHandlerModuleTest;QuickBooksNamespaceHandlerModuleTest;class;4;3;2;0;3;3;0;38
+quickbooks-connector3269761;org.mule.modules.quickbooks.api.QuickBooksConventions;QuickBooksConventions;class;0;2;1;0;1;2;0;30
+quickbooks-connector3269761;org.mulesoft.demo.quickbooks.QuickBooksFunctionalTestDriver;QuickBooksFunctionalTestDriver;class;3;3;2;0;3;3;0;33
+quickbooks-connector3269761;org.mule.modules.quickbooks.api.MapBuilder;MapBuilder;class;1;2;1;0;0;2;1;36
+quickbooks-connector3269761;org.mule.modules.quickbooks.api.QuickBooksClient;QuickBooksClient;interface;3;5;1;0;10;5;0;28
+quickbooks-connector3269761;org.mule.modules.QuickBooksConventionsTest;QuickBooksConventionsTest;class;1;1;1;0;0;1;0;33
+quickbooks-connector3269761;org.mule.modules.quickbooks.api.DefaultQuickBooksClient;DefaultQuickBooksClient;class;26;35;1;0;39;9;8;295
+quickbooks-connector3269761;org.mule.modules.quickbooks.utils.ObjectFactories;ObjectFactories;class;2;3;1;0;1;2;0;51
+quickbooks-connector3269761;org.mule.modules.QuickBooksModuleTestDriver;QuickBooksModuleTestDriver;class;10;11;1;0;0;9;2;227
+quickbooks-connector3269761;org.mule.modules.QuickBooksAccessGetTest;QuickBooksAccessGetTest;class;8;5;2;0;10;5;0;84
+quickbooks-connector3269761;org.mule.modules.quickbooks.api.Exception.QuickBooksRuntimeException;QuickBooksRuntimeException;class;1;1;4;0;0;1;0;30
+quickbooks-connector3269761;org.mule.modules.quickbooks.EntityType;EntityType;enum;16;6;1;0;4;5;1;160
+quickbooks-connector3269761;org.mule.modules.quickbooks.QuickBooksModule;QuickBooksModule;class;49;49;1;0;0;45;6;1902
+quickbooks-connector3269761;org.mule.modules.ObjectFactoriesTest;ObjectFactoriesTest;class;8;3;1;0;0;2;2;87

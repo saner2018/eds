@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SiteSurvey37440349;br.com.site.survey.AntennaInfo;AntennaInfo;class;1;7;6;0;11;3;5;128;
+SiteSurvey37440349;br.com.site.survey.PixelCalc;PixelCalc;class;5;68;2;0;7;7;11;283;
+SiteSurvey37440349;br.com.site.survey.ProgressDialog;ProgressDialog;class;1;12;6;0;3;4;4;87;
+SiteSurvey37440349;br.com.site.survey.WallInfo;WallInfo;class;1;15;6;0;14;5;7;147;
+SiteSurvey37440349;br.com.site.survey.Wall;Wall;class;1;10;1;0;35;10;5;44;
+SiteSurvey37440349;br.com.site.survey.JNumberFormatField;JNumberFormatField;class;0;27;6;0;57;10;6;141;
+SiteSurvey37440349;br.com.site.survey.ProgressUtil;ProgressUtil;class;3;7;1;0;0;3;2;56;
+SiteSurvey37440349;br.com.site.survey.ProgressMonitor;ProgressMonitor;class;1;19;1;0;28;12;6;82;
+SiteSurvey37440349;br.com.site.survey.Antenna;Antenna;class;1;12;1;0;54;12;6;46;
+SiteSurvey37440349;br.com.site.survey.MainWindow;MainWindow;class;3;37;1;0;0;4;2;201;
+SiteSurvey37440349;br.com.site.survey.MaterialType;MaterialType;enum;0;3;1;0;0;3;2;31;
+SiteSurvey37440349;br.com.site.survey.ImageTool;ImageTool;class;0;26;1;0;91;14;0;272;
+SiteSurvey37440349;br.com.site.survey.NewDialog;NewDialog;class;5;26;6;0;56;9;9;235;
+SiteSurvey37440349;br.com.site.survey.AntennaType;AntennaType;enum;0;3;1;0;0;3;2;17;
+SiteSurvey37440349;br.com.site.survey.ImagePanel;ImagePanel;class;8;122;6;0;470;31;21;463;

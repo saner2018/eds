@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+JBossMiddlewareIntegratedDemo68762173;homeloancust.Application;Application;class;0;16;1;0;104;16;8;193
+JBossMiddlewareIntegratedDemo68762173;org.jboss.samples.rs.webservices.CustomersResource;CustomersResource;class;3;3;1;0;0;1;1;58
+JBossMiddlewareIntegratedDemo68762173;com.redhat.bpms.integration.BpmsRemoteProcessControl;BpmsRemoteProcessControl;class;7;11;1;1;0;11;4;66
+JBossMiddlewareIntegratedDemo68762173;org.jboss.tools.fuse.transformation.editor.function.StringFunctions;StringFunctions;class;2;36;1;0;378;28;0;265
+JBossMiddlewareIntegratedDemo68762173;homeloancust.ObjectFactory;ObjectFactory;class;1;2;1;0;1;2;0;32
+JBossMiddlewareIntegratedDemo68762173;com.redhat.cbrouting.RemoteBpmsStartProcess;RemoteBpmsStartProcess;class;7;5;1;0;4;4;6;68
+JBossMiddlewareIntegratedDemo68762173;brmsrequest.ObjectFactory;ObjectFactory;class;3;4;1;0;6;4;0;46
+JBossMiddlewareIntegratedDemo68762173;homeloancustxml.ObjectFactory;ObjectFactory;class;1;2;1;0;1;2;0;32
+JBossMiddlewareIntegratedDemo68762173;homeloancustxml.Application;Application;class;0;16;1;0;104;16;8;193
+JBossMiddlewareIntegratedDemo68762173;homeloancust.Mortgage;Mortgage;class;0;16;1;0;104;16;8;193
+JBossMiddlewareIntegratedDemo68762173;org.jboss.tools.fuse.transformation.editor.function.NumericFunctions;NumericFunctions;class;1;10;1;0;10;5;0;37
+JBossMiddlewareIntegratedDemo68762173;brmsrequest.BatchExecution;BatchExecution;class;2;24;1;0;216;24;12;385
+JBossMiddlewareIntegratedDemo68762173;org.jboss.tools.fuse.transformation.editor.function.BooleanFunctions;BooleanFunctions;class;1;10;1;0;10;5;0;37
+JBossMiddlewareIntegratedDemo68762173;com.redhat.bpms.integration.BpmsRestRemoteProcessControl;BpmsRestRemoteProcessControl;class;1;1;2;0;0;1;0;15
+JBossMiddlewareIntegratedDemo68762173;org.jboss.samples.rs.webservices.MyRESTApplication;MyRESTApplication;class;2;3;2;0;1;3;2;19
+JBossMiddlewareIntegratedDemo68762173;com.redhat.cbrouting.RemoteBrmsValidation;RemoteBrmsValidation;class;10;6;1;0;10;5;12;110

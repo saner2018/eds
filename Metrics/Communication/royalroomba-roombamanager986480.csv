@@ -1,0 +1,6 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+royalroomba-roombamanager986480;mainpackage.RoombaControl;RoombaControl;class;1;64;1;0;0;4;12;218;
+royalroomba-roombamanager986480;roombacomm.RoombaCommSerial;RoombaCommSerial;class;8;107;2;0;187;25;17;554;
+royalroomba-roombamanager986480;roombacomm.RoombaComm;RoombaComm;class;2;220;1;1;4897;117;104;1100;
+royalroomba-roombamanager986480;roombacomm.Note;Note;class;0;3;1;0;0;3;2;18;
+royalroomba-roombamanager986480;mainpackage.RoyalRoombaManager;RoyalRoombaManager;class;7;59;1;0;0;5;22;298;

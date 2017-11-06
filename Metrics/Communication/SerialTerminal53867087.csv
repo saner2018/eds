@@ -1,0 +1,8 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+SerialTerminal53867087;com.devmel.apps.serialterminal.tools.SpUrlParser;SpUrlParser;class;1;12;1;0;0;4;2;33;
+SerialTerminal53867087;com.devmel.apps.SerialTerminal;SerialTerminal;class;4;12;1;0;4;2;1;65;
+SerialTerminal53867087;com.devmel.apps.serialterminal.tools.SearchQRCode;SearchQRCode;class;12;43;2;0;32;13;5;131;
+SerialTerminal53867087;com.devmel.apps.serialterminal.view.swing.IPDeviceAddPanel;IPDeviceAddPanel;class;2;18;5;0;0;5;7;100;
+SerialTerminal53867087;com.devmel.apps.serialterminal.view.swing.TerminalMainView;TerminalMainView;class;6;119;6;0;370;24;31;535;
+SerialTerminal53867087;com.devmel.apps.serialterminal.view.ITerminalMainView;ITerminalMainView;interface;0;22;1;0;231;22;0;25;
+SerialTerminal53867087;com.devmel.apps.serialterminal.controller.TerminalController;TerminalController;class;9;127;1;0;0;25;15;363;

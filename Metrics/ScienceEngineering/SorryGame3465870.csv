@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+SorryGame3465870;sorryGame.Deck;Deck;class;2;17;1;0;4;9;5;97
+SorryGame3465870;sorryGame.Player;Player;class;2;8;1;0;22;8;4;31
+SorryGame3465870;sorryGame.PlayableSquare;PlayableSquare;class;1;36;1;0;0;19;7;147
+SorryGame3465870;sorryGame.GameBoard;GameBoard;class;3;120;1;0;83;19;9;339
+SorryGame3465870;sorryGame.Pawn;Pawn;class;1;23;1;0;63;15;6;69
+SorryGame3465870;sorryGame.EasyComputerPlayer;EasyComputerPlayer;class;3;56;3;0;1;2;0;106
+SorryGame3465870;sorryGame.ComputerPlayer;ComputerPlayer;class;2;2;2;2;1;2;0;15
+SorryGame3465870;sorryGame.SorryGame;SorryGame;class;4;12;1;0;0;4;4;35
+SorryGame3465870;sorryGame.GameApplet;GameApplet;class;7;51;5;0;0;7;8;186
+SorryGame3465870;sorryGame.HumanPlayer;HumanPlayer;class;2;2;2;0;1;2;0;9
+SorryGame3465870;sorryGame.HardComputerPlayer;HardComputerPlayer;class;3;24;3;0;1;2;0;63
+SorryGame3465870;DeckTest;DeckTest;class;1;4;1;0;0;1;0;33

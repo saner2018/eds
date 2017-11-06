@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+Real-Time-e-Commerce-Broker-System40675258;Broker;Broker;class;6;61;1;0;24;9;58;626;
+Real-Time-e-Commerce-Broker-System40675258;Broker_Test;Broker_Test;class;6;78;1;0;31;10;53;479;
+Real-Time-e-Commerce-Broker-System40675258;Client;Client;class;8;58;1;0;11;10;28;503;
+Real-Time-e-Commerce-Broker-System40675258;TestSignature;TestSignature;class;1;3;1;0;3;3;0;35;
+Real-Time-e-Commerce-Broker-System40675258;XmlParser;XmlParser;class;6;11;1;0;1;2;4;78;
+Real-Time-e-Commerce-Broker-System40675258;Client_Test;Client_Test;class;6;46;1;0;19;11;24;336;
+Real-Time-e-Commerce-Broker-System40675258;Ebay;Ebay;class;8;30;1;0;6;5;21;336;
+Real-Time-e-Commerce-Broker-System40675258;CryptoException;CryptoException;class;3;12;3;0;43;10;2;143;
+Real-Time-e-Commerce-Broker-System40675258;Amazon;Amazon;class;8;30;1;0;6;5;21;334;
+Real-Time-e-Commerce-Broker-System40675258;Test;Test;class;6;10;1;0;4;4;4;210;
+Real-Time-e-Commerce-Broker-System40675258;DesEncrypter;DesEncrypter;class;4;18;1;0;137;18;4;150;
+Real-Time-e-Commerce-Broker-System40675258;GetPubKey;GetPubKey;class;1;2;1;0;1;2;0;28;
+Real-Time-e-Commerce-Broker-System40675258;KeyGen;KeyGen;class;1;5;1;0;1;3;3;52;

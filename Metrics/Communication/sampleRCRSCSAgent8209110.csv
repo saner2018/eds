@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+sampleRCRSCSAgent8209110;sampleRCRSCS.SampleRCRSCSSearch;SampleRCRSCSSearch;class;6;26;1;0;16;7;1;126;
+sampleRCRSCSAgent8209110;sampleRCRSCS.SampleRCRSCSFireBrigade;SampleRCRSCSFireBrigade;class;20;45;3;0;9;6;7;190;
+sampleRCRSCSAgent8209110;sampleRCRSCS.SampleRCRSCSCentre;SampleRCRSCSCentre;class;6;11;2;0;4;4;1;52;
+sampleRCRSCSAgent8209110;sampleRCRSCS.LaunchSampleRCRSCSAgents;LaunchSampleRCRSCSAgents;class;9;22;1;0;3;3;3;127;
+sampleRCRSCSAgent8209110;sampleRCRSCS.AbstractSampleRCRSCSAgent;AbstractSampleRCRSCSAgent;class;10;16;2;3;1;3;7;101;
+sampleRCRSCSAgent8209110;sampleRCRSCS.SampleRCRSCSAmbulanceTeam;SampleRCRSCSAmbulanceTeam;class;20;53;3;0;15;7;2;202;
+sampleRCRSCSAgent8209110;sampleRCRSCS.SampleRCRSCSPoliceForce;SampleRCRSCSPoliceForce;class;22;48;3;0;24;8;3;255;
+sampleRCRSCSAgent8209110;sampleRCRSCS.DummyRCRSCSAgent;DummyRCRSCSAgent;class;5;2;2;0;1;2;0;24;
+sampleRCRSCSAgent8209110;sampleRCRSCS.DistanceRCRSCSSorter;DistanceRCRSCSSorter;class;2;2;1;0;0;2;2;26;

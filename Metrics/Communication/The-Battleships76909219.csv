@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc;
+The-Battleships76909219;gui.WarPhase;WarPhase;class;6;40;27;0;185;20;10;236;
+The-Battleships76909219;gui.LoginPhase;LoginPhase;class;1;20;7;0;15;5;6;136;
+The-Battleships76909219;gui.GameFrame;GameFrame;class;0;2;6;0;0;1;0;28;
+The-Battleships76909219;connection.Coder;Coder;class;0;29;1;0;36;9;0;94;
+The-Battleships76909219;core.Resources;Resources;class;4;0;1;0;0;0;25;42;
+The-Battleships76909219;connection.Connection;Connection;class;0;5;1;0;0;3;1;43;
+The-Battleships76909219;connection.Writer;Writer;class;0;4;1;0;0;3;1;42;
+The-Battleships76909219;game.AllyGrid;AllyGrid;class;1;134;10;0;61;18;7;461;
+The-Battleships76909219;core.Info;Info;class;0;10;1;0;15;5;0;74;
+The-Battleships76909219;connection.Reader;Reader;class;0;6;2;0;1;3;2;52;
+The-Battleships76909219;gui.GameDialog;GameDialog;class;2;10;6;3;21;6;0;74;
+The-Battleships76909219;core.Main;Main;class;8;6;1;0;1;3;1;65;
+The-Battleships76909219;gui.Menu;Menu;class;1;7;10;0;21;4;0;79;
+The-Battleships76909219;game.EnemyGrid;EnemyGrid;class;1;33;10;0;3;9;6;177;
+The-Battleships76909219;core.Config;Config;class;0;11;1;0;0;2;3;66;
+The-Battleships76909219;gui.PreparationPhase;PreparationPhase;class;2;24;7;0;77;9;5;176;
