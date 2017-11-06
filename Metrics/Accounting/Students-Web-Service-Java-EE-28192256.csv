@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Students-Web-Service-Java-EE-28192256;interfaces.EtudiantDAO;EtudiantDAO;interface;1;13;1;0;78;13;0;22
+Students-Web-Service-Java-EE-28192256;rmi.IAnnuaire;IAnnuaire;interface;1;1;1;0;0;1;0;6
+Students-Web-Service-Java-EE-28192256;entities.Etudiant;Etudiant;class;12;17;1;0;82;17;8;117
+Students-Web-Service-Java-EE-28192256;dao.Dao;Dao;class;11;55;1;0;739;39;1;460
+Students-Web-Service-Java-EE-28192256;interfaces.AdministratorDAO;AdministratorDAO;interface;1;8;1;0;28;8;0;17
+Students-Web-Service-Java-EE-28192256;rmi.IEtudiant;IEtudiant;interface;2;1;1;0;0;1;0;6
+Students-Web-Service-Java-EE-28192256;rmi.IUtilisateur;IUtilisateur;interface;0;2;1;0;1;2;0;7
+Students-Web-Service-Java-EE-28192256;interfaces.PromotionDAO;PromotionDAO;interface;1;16;1;0;120;16;0;25
+Students-Web-Service-Java-EE-28192256;rmi.EtudiantImpl;EtudiantImpl;class;2;4;1;0;6;4;1;23
+Students-Web-Service-Java-EE-28192256;entities.Administrator;Administrator;class;10;11;1;0;41;11;5;70
+Students-Web-Service-Java-EE-28192256;dao.TestDao;TestDao;class;9;11;1;0;4;5;1;158
+Students-Web-Service-Java-EE-28192256;entities.Promotion;Promotion;class;11;19;1;0;145;19;9;118
+Students-Web-Service-Java-EE-28192256;rmi.IAdministrateur;IAdministrateur;interface;3;8;1;0;28;8;0;14
+Students-Web-Service-Java-EE-28192256;rmi.AnnuaireImpl;AnnuaireImpl;class;2;2;1;0;1;2;1;15

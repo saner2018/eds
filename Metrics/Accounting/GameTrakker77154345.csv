@@ -1,0 +1,16 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+GameTrakker77154345;frm_Tournaments_Setup_EnterBowlers;frm_Tournaments_Setup_EnterBowlers;class;9;54;6;0;480;18;27;449
+GameTrakker77154345;frm_PlayerRegistration;frm_PlayerRegistration;class;5;35;6;0;171;11;25;450
+GameTrakker77154345;frm_DisplayScores;frm_DisplayScores;class;11;92;6;0;607;21;40;819
+GameTrakker77154345;frm_LoginPage;frm_LoginPage;class;5;41;6;0;169;11;19;403
+GameTrakker77154345;frm_PlayerInfo;frm_PlayerInfo;class;9;59;6;0;471;19;42;603
+GameTrakker77154345;frm_BowlingScoreCard;frm_BowlingScoreCard;class;10;346;6;0;3763;53;120;2683
+GameTrakker77154345;frm_Leagues;frm_Leagues;class;8;32;6;0;189;12;40;422
+GameTrakker77154345;frm_EnterBowlingScores;frm_EnterBowlingScores;class;11;104;6;0;520;20;37;839
+GameTrakker77154345;frm_UpdateGames;frm_UpdateGames;class;11;84;6;0;438;18;44;721
+GameTrakker77154345;CryptCodecOpener;CryptCodecOpener;class;4;1;1;0;0;1;0;20
+GameTrakker77154345;frm_About;frm_About;class;1;14;6;0;21;5;9;195
+GameTrakker77154345;frm_Main;frm_Main;class;9;57;6;0;751;23;31;629
+GameTrakker77154345;DBConnect;DBConnect;class;0;4;1;0;0;3;3;47
+GameTrakker77154345;Desktop;Desktop;class;0;0;1;0;0;0;0;11
+GameTrakker77154345;frm_Tournament;frm_Tournament;class;1;20;6;0;66;7;69;635

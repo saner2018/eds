@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Gaming-Portal--JAVA43179700;k.i.a.DBconnect;DBconnect;class;0;2;1;0;0;1;1;25
+Gaming-Portal--JAVA43179700;k.i.a.Signup;Signup;class;2;37;6;0;208;12;30;376
+Gaming-Portal--JAVA43179700;k.i.a.KIA;KIA;class;1;1;1;0;0;1;0;18
+Gaming-Portal--JAVA43179700;k.i.a.Logoquiz3;Logoquiz3;class;1;16;6;0;19;5;7;135
+Gaming-Portal--JAVA43179700;k.i.a.start;start;class;3;17;6;0;45;6;8;171
+Gaming-Portal--JAVA43179700;k.i.a.trial;trial;class;1;12;6;0;10;4;1;90
+Gaming-Portal--JAVA43179700;k.i.a.Dashboard;Dashboard;class;3;25;6;0;58;8;43;458
+Gaming-Portal--JAVA43179700;k.i.a.Login;Login;class;3;20;6;0;43;6;14;222
+Gaming-Portal--JAVA43179700;k.i.a.Play;Play;class;2;17;6;0;43;7;14;184

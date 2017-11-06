@@ -1,0 +1,11 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.web.controller.HomeController;HomeController;class;2;1;1;0;0;1;0;11
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.web.validator.UserValidator;UserValidator;class;4;16;1;0;1;2;0;33
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.web.controller.UserController;UserController;class;20;69;1;0;10;12;3;400
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.util.Hbm2ddl;Hbm2ddl;class;3;3;1;0;0;1;0;31
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.model.Review;Review;class;6;22;1;0;145;22;11;102
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.security.SecurityUtils;SecurityUtils;class;3;4;1;0;3;3;1;31
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.model.dao.jpa.UserDaoImpl;UserDaoImpl;class;8;11;1;0;0;11;1;100
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.model.User;User;class;6;34;1;0;473;34;16;165
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.model.dao.UserDao;UserDao;interface;2;11;1;0;55;11;0;18
+CS520_Bvvo_Java_Spring_Hibernate46674300;Bvvo.web.controller.ReviewController;ReviewController;class;17;20;1;0;0;6;2;144

@@ -1,0 +1,15 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+InfiniteDrop23408562;com.green.back.DatabaseConnection;DatabaseConnection;class;12;44;1;0;50;16;10;233
+InfiniteDrop23408562;Test.AllTests;AllTests;class;5;0;1;0;0;0;0;8
+InfiniteDrop23408562;Test.TestLocalFileManager;TestLocalFileManager;class;1;4;1;0;0;1;1;45
+InfiniteDrop23408562;com.green.back.WatchDir;WatchDir;class;1;33;1;0;9;5;5;164
+InfiniteDrop23408562;com.green.back.RemoteFileManager;RemoteFileManager;class;10;34;1;0;0;10;4;182
+InfiniteDrop23408562;Test.TestDatabaseConnection;TestDatabaseConnection;class;3;7;1;0;0;6;1;44
+InfiniteDrop23408562;org.eclipse.wb.swing.FocusTraversalOnArray;FocusTraversalOnArray;class;0;17;2;0;8;8;1;90
+InfiniteDrop23408562;com.green.front.SignUp;SignUp;class;5;17;6;0;0;4;14;205
+InfiniteDrop23408562;com.green.back.FileManager;FileManager;interface;0;1;1;0;0;1;0;4
+InfiniteDrop23408562;Test.TestRemoteFileManager;TestRemoteFileManager;class;0;0;1;0;0;0;0;16
+InfiniteDrop23408562;com.green.back.CombinedFileManager;CombinedFileManager;class;6;38;1;0;17;8;4;153
+InfiniteDrop23408562;com.green.front.Login;Login;class;8;13;6;0;13;4;12;184
+InfiniteDrop23408562;com.green.front.Main;Main;class;7;17;1;0;87;11;4;154
+InfiniteDrop23408562;com.green.back.LocalFileManager;LocalFileManager;class;1;25;1;0;23;10;5;100

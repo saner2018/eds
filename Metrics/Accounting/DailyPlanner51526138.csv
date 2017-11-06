@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+DailyPlanner51526138;dailyplanner.CreateMEMO;CreateMEMO;class;7;31;6;0;70;9;16;265
+DailyPlanner51526138;dailyplanner.Notepad;Notepad;class;2;160;6;0;1434;36;35;858
+DailyPlanner51526138;dailyplanner.Dashboard;Dashboard;class;11;78;6;0;427;20;31;750
+DailyPlanner51526138;dailyplanner.DailyPlanner;DailyPlanner;class;1;1;1;0;0;1;0;18
+DailyPlanner51526138;dailyplanner.CreateNOTE;CreateNOTE;class;7;21;6;0;34;6;13;215
+DailyPlanner51526138;dailyplanner.Login;Login;class;9;27;6;0;45;6;15;247
+DailyPlanner51526138;dailyplanner.Startup;Startup;class;4;27;6;0;114;10;12;266
+DailyPlanner51526138;dailyplanner.ChangePW;ChangePW;class;7;24;6;0;43;6;18;246
+DailyPlanner51526138;dailyplanner.Signup;Signup;class;7;43;6;0;120;8;22;350

@@ -1,0 +1,12 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+File-Locker-Capstone-Project51510276;filelocker.MyData;MyData;class;0;12;1;0;54;12;6;51
+File-Locker-Capstone-Project51510276;filelocker.ForgotPassword;ForgotPassword;class;1;11;6;0;28;4;6;144
+File-Locker-Capstone-Project51510276;filelocker.CreateAccount;CreateAccount;class;1;16;6;0;66;6;14;254
+File-Locker-Capstone-Project51510276;filelocker.MyGui;MyGui;class;6;33;6;0;276;13;18;343
+File-Locker-Capstone-Project51510276;filelocker.UserManual;UserManual;class;1;11;6;0;6;3;3;109
+File-Locker-Capstone-Project51510276;filelocker.Encrypt;Encrypt;class;3;22;1;0;10;5;0;158
+File-Locker-Capstone-Project51510276;filelocker.Main;Main;class;2;2;1;0;0;1;0;25
+File-Locker-Capstone-Project51510276;filelocker.Mail;Mail;class;6;12;1;0;6;2;0;105
+File-Locker-Capstone-Project51510276;filelocker.AboutUs;AboutUs;class;1;11;6;0;6;3;3;111
+File-Locker-Capstone-Project51510276;filelocker.Logged;Logged;class;4;139;6;0;2415;34;85;1392
+File-Locker-Capstone-Project51510276;filelocker.DatabaseConnection;DatabaseConnection;class;2;102;1;0;465;31;0;679

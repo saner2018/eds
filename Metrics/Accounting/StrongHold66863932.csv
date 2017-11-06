@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+StrongHold66863932;StrongHold.BCrypt;BCrypt;class;3;67;1;0;73;14;10;701
+StrongHold66863932;StrongHold.YourContent;YourContent;class;4;1;1;0;0;1;0;42
+StrongHold66863932;StrongHold.SecureLogin;SecureLogin;class;22;24;2;0;0;8;13;319
+StrongHold66863932;StrongHold.UserDetails;UserDetails;class;4;16;1;0;60;16;5;88
+StrongHold66863932;StrongHold.ConfirmBox;ConfirmBox;class;9;1;1;0;0;1;2;84
+StrongHold66863932;StrongHold.SuperUser;SuperUser;class;33;54;3;0;54;16;15;488
+StrongHold66863932;StrongHold.AlertBox;AlertBox;class;6;2;1;0;0;2;1;96
+StrongHold66863932;StrongHold.EmailConfiguration;EmailConfiguration;class;5;5;1;0;0;1;2;85
+StrongHold66863932;StrongHold.Configuration;Configuration;class;4;63;1;0;35;23;13;446

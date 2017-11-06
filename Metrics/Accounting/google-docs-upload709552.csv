@@ -1,0 +1,5 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+google-docs-upload709552;DocumentListException;DocumentListException;class;0;2;3;0;1;2;1;26
+google-docs-upload709552;SimpleCommandLineParser;SimpleCommandLineParser;class;0;19;1;0;0;3;1;89
+google-docs-upload709552;GoogleDocsUpload;GoogleDocsUpload;class;6;173;1;0;691;39;15;829
+google-docs-upload709552;DocumentList;DocumentList;class;21;177;1;0;37;34;35;1061

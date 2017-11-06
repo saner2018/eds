@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+EmailProject46315828;secureemailclient.ClientGUI;ClientGUI;class;5;67;6;0;470;23;27;523
+EmailProject46315828;secureemailclient.SenderGUI;SenderGUI;class;3;19;6;0;30;7;14;225
+EmailProject46315828;secureemailclient.Message;Message;class;1;30;1;0;56;21;7;166
+EmailProject46315828;secureemailserver.ServerThread;ServerThread;class;4;119;1;0;419;30;10;583
+EmailProject46315828;secureemailserver.Server;Server;class;3;13;1;0;10;5;2;113
+EmailProject46315828;secureemailclient.IPSelect;IPSelect;class;1;13;6;0;55;7;4;121
+EmailProject46315828;secureemailclient.RegisterGUI;RegisterGUI;class;3;34;6;0;91;9;10;234
+EmailProject46315828;secureemailclient.SecureMessages;SecureMessages;class;4;7;1;0;6;4;0;41
+EmailProject46315828;secureemailclient.LoginGUI;LoginGUI;class;5;35;6;0;196;16;19;348

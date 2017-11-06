@@ -1,0 +1,13 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Home-bank46163216;Model.JobPost;JobPost;class;1;9;1;0;6;9;8;82
+Home-bank46163216;Model.User;User;class;3;19;1;0;36;17;9;139
+Home-bank46163216;DBManager.BankQuery;BankQuery;class;4;75;1;0;0;21;6;479
+Home-bank46163216;Model.Account;Account;class;7;15;1;1;29;15;13;130
+Home-bank46163216;home.bank.HomeBank;HomeBank;class;25;32;2;0;21;7;0;385
+Home-bank46163216;DBManager.Connect;Connect;class;0;10;1;0;0;7;2;71
+Home-bank46163216;Model.Allowance;Allowance;class;2;5;2;0;0;5;2;32
+Home-bank46163216;Model.ParentUser;ParentUser;class;2;1;2;0;0;1;1;20
+Home-bank46163216;Model.ChildUser;ChildUser;class;2;1;2;0;0;1;1;20
+Home-bank46163216;home.bank.TestDriver;TestDriver;class;3;5;1;0;3;3;0;51
+Home-bank46163216;Model.Transaction;Transaction;class;8;15;1;0;51;15;13;123
+Home-bank46163216;Model.Income;Income;class;0;0;1;0;0;0;0;12

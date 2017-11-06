@@ -1,0 +1,14 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_GetUsers;Svlt_GetUsers;class;4;5;2;0;3;3;1;27
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_GetUser;Svlt_GetUser;class;5;3;2;0;3;3;1;25
+File-Sync-Demo25058604;com.docucap.testsecm.SimpleECMCalls;SimpleECMCalls;class;21;58;1;0;136;17;1;219
+File-Sync-Demo25058604;com.docucap.testsecm.Utilities;Utilities;class;5;20;1;0;66;12;0;112
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_AddUser;Svlt_AddUser;class;5;5;2;0;3;3;1;31
+File-Sync-Demo25058604;com.docucap.testsecm.Config;Config;class;0;0;1;0;0;0;4;7
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_OAuthCallback;Svlt_OAuthCallback;class;4;8;2;0;10;5;1;71
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_GetFiles;Svlt_GetFiles;class;4;4;2;0;6;4;1;32
+File-Sync-Demo25058604;com.docucap.testsecm.SimpleECMAccount;SimpleECMAccount;class;11;109;1;0;502;36;37;412
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_SyncFile;Svlt_SyncFile;class;20;28;2;0;21;7;6;167
+File-Sync-Demo25058604;com.docucap.PlaceHolder;PlaceHolder;class;0;0;1;0;0;0;0;3
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_GetServices;Svlt_GetServices;class;4;4;2;0;6;4;1;29
+File-Sync-Demo25058604;com.docucap.testsecm.Svlt_GetOAuthJs;Svlt_GetOAuthJs;class;6;6;2;0;3;3;1;38

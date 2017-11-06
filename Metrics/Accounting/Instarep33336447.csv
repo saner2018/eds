@@ -1,0 +1,10 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+Instarep33336447;edu.carleton.instarep.model.UserPref;UserPref;class;1;16;1;0;15;14;6;66
+Instarep33336447;edu.carleton.instarep.util.HttpRequest;HttpRequest;class;17;435;9;0;19325;190;61;2938
+Instarep33336447;edu.carleton.instarep.main.Main;Main;class;12;19;1;0;68;16;9;193
+Instarep33336447;edu.carleton.instarep.model.InstagramUser;InstagramUser;class;0;16;1;0;78;16;7;65
+Instarep33336447;edu.carleton.instarep.model.InstagramPost;InstagramPost;class;0;5;1;0;0;5;2;21
+Instarep33336447;edu.carleton.instarep.util.APIUtil;APIUtil;class;4;33;1;0;0;16;2;181
+Instarep33336447;edu.carleton.instarep.bot.Instabot;Instabot;class;4;37;1;0;21;12;7;154
+Instarep33336447;edu.carleton.instarep.model.Document;Document;class;4;78;1;0;347;30;6;210
+Instarep33336447;edu.carleton.instarep.util.InstarepConstants;InstarepConstants;class;0;0;1;0;0;0;22;59

@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+HoneyWords64120670;common_interface.welcome;welcome;class;2;11;1;0;0;3;16;126
+HoneyWords64120670;common_interface.ImageResize;ImageResize;class;0;5;1;0;1;3;2;51
+HoneyWords64120670;enums.IpAddress;IpAddress;enum;0;2;1;0;0;2;1;14
+HoneyWords64120670;common_interface.signup;signup;class;2;46;1;0;61;10;9;275
+HoneyWords64120670;common_interface.sign_in;sign_in;class;3;23;1;0;9;3;12;170
+HoneyWords64120670;common_interface.Admin;Admin;class;2;11;1;0;5;3;10;146
+HoneyWords64120670;common_interface.display_user;display_user;class;1;4;1;0;6;3;1;74
+HoneyWords64120670;database.JDBC;JDBC;class;0;43;1;0;0;12;2;293
+HoneyWords64120670;common_interface.Attacker;Attacker;class;2;24;1;0;11;4;12;186
+HoneyWords64120670;common_interface.View_history;View_history;class;1;11;2;0;6;4;0;109
+HoneyWords64120670;common_interface.Main_menu;Main_menu;class;3;24;2;0;66;6;16;271
+HoneyWords64120670;utils.Utils;Utils;class;0;1;1;0;0;1;0;12
+HoneyWords64120670;enums.ports;ports;enum;0;2;1;0;0;2;1;14
+HoneyWords64120670;common_interface.StatusToAdmin;StatusToAdmin;class;0;2;1;0;0;1;0;22
+HoneyWords64120670;common_interface.Honeyword;Honeyword;class;2;35;1;0;28;8;2;240
+HoneyWords64120670;common_interface.Honeychecker;Honeychecker;class;1;12;1;0;8;3;5;152

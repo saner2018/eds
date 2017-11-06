@@ -1,0 +1,17 @@
+file;packageClass;class;type;cbo;wmc;dit;noc;lcom;nom;nof;loc
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.menu_favourites;menu_favourites;class;3;58;6;0;741;20;20;407
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.menu_vegetarian_subs;menu_vegetarian_subs;class;4;58;6;0;741;20;20;407
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.owners_dashboard;owners_dashboard;class;5;25;6;0;78;7;28;337
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.user_dashboard;user_dashboard;class;6;32;6;0;136;9;15;260
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.Extras;Extras;class;3;58;6;0;741;20;20;407
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.user_history;user_history;class;4;25;6;0;64;6;10;223
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.main_menu;main_menu;class;8;30;6;0;171;10;8;200
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.edit_owners_profile;edit_owners_profile;class;3;59;6;0;406;15;18;360
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.menu_local_subs;menu_local_subs;class;4;58;6;0;741;20;20;407
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.Owners_user__search;Owners_user__search;class;3;36;6;0;171;11;20;328
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.KARTIKSIPPROJECT;KARTIKSIPPROJECT;class;1;2;1;0;1;1;0;18
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.terms_and_conditions;terms_and_conditions;class;4;24;6;0;105;8;12;164
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.edit_profile;edit_profile;class;3;59;6;0;406;15;18;360
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.LOGIN_FORM;LOGIN_FORM;class;5;38;6;0;171;10;13;288
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.become_a_member;become_a_member;class;3;64;6;0;528;17;24;389
+SUBWAY-Java-app-with-mySQL-database-management45131448;kartiks.ip.project.bill;bill;class;5;35;6;0;169;10;21;346
