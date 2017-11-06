@@ -16,3 +16,18 @@ To download of the thresholds derivations in this study, click in [link](https:/
 
 
 To download of the metrics of each  software domains used in this study, click in [link](https://github.com/saner2018/eds/blob/master/Metrics.rar)
+
+
+## Dataset for Code Smell Analysis
+
+For each system of our Smell Dataset, we built an oracle of true positive instances. In order to provide a reliable oracle, we run three well-known code smell detection tools (JDeodorant, JSpirit, and PMD) for all target systems and build a list with possible anomalies pointed by these tools. Then, at least a pair of authors analyzed each class pointed as God Class to validate our oracle. This manual validation consisted of the answer of four questions, as listed following.
+
+```markdown
+RQ1. Does the class have more than one responsibility?
+
+RQ2. Does the class have functionality that would fit better into other classes?
+
+RQ3. Do you have problems summarizing the class responsibility in one sentence?
+
+RQ4. Would splitting up the class improve the overall design?
+```
