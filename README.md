@@ -7,7 +7,7 @@
 
 ## Downloads
 
-We available all data used in this study. 
+**We available all data used in this study.**
 
 To download PDF about software domains, click in <a href="https://github.com/saner2018/eds/blob/master/Oracle.pdf" download="Download"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
 
