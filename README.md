@@ -11,7 +11,7 @@
 
 To download PDF about software domains, click in <a href="https://github.com/saner2018/eds/blob/master/Oracle.pdf" download="Download"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
 
-To download of the metrics of each  software domains used in this study, click in <a href="https://github.com/saner2018/eds/blob/master/Oracle.pdf" download="Download"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
+To download of the metrics of each  software domains used in this study, click in <a href="https://github.com/saner2018/eds/tree/master/Metrics" download="Download"><img src="https://cdn2.iconfinder.com/data/icons/snipicons/5000/download-alt-48.png" /></a>
 
 ## Dataset for Code Smell Analysis
 
